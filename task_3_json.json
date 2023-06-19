@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Dark",
+        "director": "Baran bo Odar",
+        "seasons": 3,
+        "series": 26,
+        "year": 2017,
+        "genre": "Fantasy"
+    },
+    {
+        "id": 2,
+        "title": "Black mirror",
+        "director": "Charlie Bruker",
+        "seasons": 6,
+        "series": 22,
+        "year": 2011,
+        "genre": "Dystopia"
+    },
+    {
+        "id": 3,
+        "title": "Stranger things",
+        "director": "Duffer brothers",
+        "seasons": 4,
+        "series": 34,
+        "year": 2016,
+        "genre": "Horror"
+    },
+    {
+        "id": 1,
+        "title": "The Umbrella Academy",
+        "director": "Gerrard Wide",
+        "seasons": 3,
+        "series": 30,
+        "year": 2019,
+        "genre": "Fantasy"
+    },
+    {
+        "id": 4,
+        "title": "Euphoria",
+        "director": "Sam Levinson",
+        "seasons": 2,
+        "series": 16,
+        "year": 2019,
+        "genre": "Drama"
+    }
+
+]
