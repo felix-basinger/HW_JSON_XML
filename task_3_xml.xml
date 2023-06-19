@@ -1,0 +1,42 @@
+<CATALOG>
+    <SERIES>
+        <TITLE>Dark</TITLE>
+        <DIRECTOR>Baran bo Odar</DIRECTOR>
+        <SEASONS>3</SEASONS>
+        <SERIES>26</SERIES>
+        <YEAR>2017</YEAR>
+        <GENRE>Fantasy</GENRE>
+    </SERIES>
+        <SERIES>
+        <TITLE>Black mirror</TITLE>
+        <DIRECTOR>Charlie Bruker</DIRECTOR>
+        <SEASONS>6</SEASONS>
+        <SERIES>22</SERIES>
+        <YEAR>2011</YEAR>
+        <GENRE>Dystopia</GENRE>
+    </SERIES>
+        <SERIES>
+        <TITLE>Stranger things</TITLE>
+        <DIRECTOR>Duffer brothers</DIRECTOR>
+        <SEASONS>4</SEASONS>
+        <SERIES>34</SERIES>
+        <YEAR>2016</YEAR>
+        <GENRE>Horror</GENRE>
+    </SERIES>
+        <SERIES>
+        <TITLE>The Umbrella Academy</TITLE>
+        <DIRECTOR>Gerrard Wide</DIRECTOR>
+        <SEASONS>3</SEASONS>
+        <SERIES>30</SERIES>
+        <YEAR>2019</YEAR>
+        <GENRE>Fantasy</GENRE>
+    </SERIES>
+        <SERIES>
+        <TITLE>Euphoria</TITLE>
+        <DIRECTOR>Sam Levinson</DIRECTOR>
+        <SEASONS>2</SEASONS>
+        <SERIES>16</SERIES>
+        <YEAR>2019</YEAR>
+        <GENRE>Drama</GENRE>
+    </SERIES>
+</CATALOG>
